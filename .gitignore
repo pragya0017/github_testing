@@ -1,0 +1,9 @@
+profiler/
+MathJax/config
+MathJax/extensions
+MathJax/jax
+MathJax/MathJax.js
+py*
+p*
+MathJax/*
+cover*
