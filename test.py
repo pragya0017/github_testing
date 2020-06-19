@@ -1,3 +1,3 @@
 print "hello world"
 
-#merge conflict
+print("merge conflict")
